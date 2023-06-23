@@ -1,4 +1,3 @@
-# coin-herd-behavior
 <h1 style="color: #FA8128; text-align: center;">
     Memecoins and Herd Behavior: Investment Prospects of Memeable Financial Assets
 </h1>
