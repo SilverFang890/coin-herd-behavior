@@ -11,5 +11,6 @@
 <p style="margin-left: 10%; margin-right: 15%;">
     For example, in the future, I may use this data as training data in a knn model to predict whether a new cryptocurrency is a "stablecoin" or a "memecoin". I can calculate the distance of the new coin's measure of herd behavior with those in the training data and store this data in a priority queue and poll k nearest values to determine the predicted definition of the coin. 
 </p>
+<a href="https://samuelsilver.me/images/downloads/memecoin_research.pdf">Full Project Report Here</a>
 
 
